@@ -18,7 +18,27 @@
                   "thumbImgFileSeqNo":"",
                   "image":"",
                   "displayErrorCode":"N",
-                  "itemDepth2":[			
+                  "itemDepth2":[
+                      {  
+                        "typeCode":"LA04",
+                        "title":"NEW 스타일러",
+                        "totalStep":4,
+                        "registStepType":"1,2,3",
+                        "deviceType":"203",
+                        "ssid":"",
+                        "imageFileName":"home_appliances_img_styler.png",
+                        "imgFileSeqNo":"1801311435000044",
+                        "image":"https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
+                        "displayErrorCode":"Y",
+                        "ssid1": "LG_Smart_Styler",
+                        "ssid2": "LG_Smart_Styler2",
+                        "ip": "192.168.120.254",
+                        "port": "5500",
+                        "guide": "ST",
+                        "imageIcon": "https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ.png",
+                        "gmodule": "GSM",
+                        "rmodule": "RSM"
+                     },
                      {  
                         "typeCode":"LA01",
                         "title":"일반세탁기",
@@ -54,26 +74,6 @@
                         "imgFileSeqNo":"1801311435000050",
                         "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N"
-                     },
-                     {  
-                        "typeCode":"LA04",
-                        "title":"NEW 스타일러",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"203",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_styler.png",
-                        "imgFileSeqNo":"1801311435000044",
-                        "image":"https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"Y",
-                        "ssid1": "LG_Smart_Styler",
-                        "ssid2": "LG_Smart_Styler2",
-                        "ip": "192.168.120.254",
-                        "port": "5500",
-                        "guide": "ST",
-                        "imageIcon": "https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ.png",
-                        "gmodule": "GSM",
-                        "rmodule": "RSM"
                      }
                   ]
                },
