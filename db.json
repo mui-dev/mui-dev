@@ -43,30 +43,6 @@
                         "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N"
                      },
-                     {  
-                        "typeCode":"LA05",
-                        "title":"미니세탁기",
-                        "totalStep":4,
-                        "registStepType":"2,3",
-                        "deviceType":"201",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
-                     {  
-                        "typeCode":"LA03",
-                        "title":"의류건조기",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"202",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
                   {  
                         "typeCode":"LA04",
                         "title":"NEW 스타일러",
@@ -115,18 +91,6 @@
                   "displayErrorCode":"N",
                   "itemDepth2":[  
                      {  
-                        "typeCode":"SH01",
-                        "title":"ThinQ 허브",
-                        "totalStep":4,
-                        "registStepType":"",
-                        "deviceType":"1001",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_sstqh.png",
-                        "imgFileSeqNo":"1801311435000041",
-                        "image":"https://objectstore.lgthinq.com/21503891-f92b-49b5-87a1-b36e0de86cb5?Expires=1580951499&Signature=Wq1W6bLbX-lfaDd0xkRQ55AUVsaXh1lkJqx4UkSinIy2z~-hB~xD3C2yoP8oEJEv6LlDFa-vV6eejD5OGWbVoUgjzz7IGBU2MhUfkzOY52zsnaFxg42Xay5DvQNd7lFUz3y9fa0WBOhkwoxQ21uBF~MMH3C8AqIw-791HQSQGGOlZwX8OBkbRApPKl7WylrGZZNDPDtcCITQaKrZLL5RGZsX5SwlfOAvM~1hDVjY9SJEp4FyXzWe7qrONSYgxzcnnXz5fzd4aajmvor~xs92Bz~rG6GUFnqkvzw879OZY3ZNngdPK-mZ6p~OuM60CtXiE3ybc6IBnR0DzdJ3PpcnVw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
-                     {  
                         "typeCode":"SH02",
                         "title":"LG IoT 허브",
                         "totalStep":4,
@@ -153,30 +117,6 @@
                   "image":"",
                   "displayErrorCode":"N",
                   "itemDepth2":[  
-                     {  
-                        "typeCode":"SH05",
-                        "title":"에어센서",
-                        "totalStep":4,
-                        "registStepType":"",
-                        "deviceType":"4003",
-                        "ssid":"",
-                        "imageFileName":"ic_list_airsensor.png",
-                        "imgFileSeqNo":"1801311435000059",
-                        "image":"https://objectstore.lgthinq.com/aad40a90-7f56-43e7-8b63-b899955fd268?Expires=1580951535&Signature=rALEOjsVf7TlPbYhY1xSGKpaXqTgPf5-pyO2jaONkQYTCWitDKBi46kAIq-s7UQCmFT-9AvMJPoSaSuHCJFPnWj~c-FvTsawBEHRa25Wp~SpL-qqBaETSkSOehBUklEZ0qB3g~buyvu3vOk-oXLCJbqCySUx4zYiiXoeDPu90qgeFjdTWsFYUWnuNApffPNuKsRMEhn5UtVmzAxwJAUnvNx7y4AvZus7MzFaLpSE5twH7owK4d4OOCjZbic3olIYdAoFPm9u9-pwQee02A~hkIMUjsaNjdEk1UeqDiTqUjaFiwB9BCk8DjvwND9NrgzY6dmQkVu~LWWM9BBN6dVrgg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
-                     {  
-                        "typeCode":"SH06",
-                        "title":"미세먼지 알리미",
-                        "totalStep":4,
-                        "registStepType":"",
-                        "deviceType":"4004",
-                        "ssid":"",
-                        "imageFileName":"category_list_dustsensor.png",
-                        "imgFileSeqNo":"1801311435000016",
-                        "image":"https://objectstore.lgthinq.com/b3fea555-260f-47e2-974c-29d68cb31d6b?Expires=1580951444&Signature=NNXUuie3P0KlU1Bm4ayo-WP37cs4nEyzc5mC9BWC36AYHjQYYux5HWtqLkAf7O5YKWMnfkDKCsGT85h1QoV01QnCFtnxO5OeS5rr9GxWVqXFMeCqGAtbNOWEYdAgTmBXtnxF~dszGD3fgi-tNwGMRYhdt06HFaoZDtx34q7KcSlSJ2woiO2FFNU8nTCpffojevi4RidOhl-JgXIDYO2qOqk2tL2S63x7AIkhUNXbceEqS3-98dqC0uzVu1SN91Bf~9J2k0NU4Mxl5ZMnqjZLFd4LeMCL-aq9rhzcA2-sbViXHN~GpbzG6KgJrDiKXU2VSoqsroa~6Rvl867jVJwj1g__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
                      {  
                         "typeCode":"SH04",
                         "title":"센서허브",
