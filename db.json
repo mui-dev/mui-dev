@@ -19,30 +19,6 @@
                   "image":"",
                   "displayErrorCode":"N",
                   "itemDepth2":[			
-                     {  
-                        "typeCode":"LA01",
-                        "title":"일반세탁기",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"201",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
-                     {  
-                        "typeCode":"LA02",
-                        "title":"드럼세탁기",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"201",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     },
                   {  
                         "typeCode":"LA04",
                         "title":"NEW 스타일러",
@@ -54,7 +30,7 @@
                         "imgFileSeqNo":"1801311435000044",
                         "image":"https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"Y",
-                    "ssid1": "LG_Smart_Styler",
+                        "ssid1": "LG_Smart_Styler",
                         "ssid2": "LG_Smart_Styler2",
                         "ip": "192.168.120.254",
                         "port": "5500",
@@ -62,72 +38,6 @@
                         "imageIcon": "https://demo.smartthinq.kr/image/product_icon/new_gsm.png",
                         "gmodule": "GSM",
                         "rmodule": "RSM"
-                     },
-                     {  
-                        "typeCode":"LI01",
-                        "title":"로봇청소기",
-                        "totalStep":3,
-                        "registStepType":"1,2",
-                        "deviceType":"501",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_roboking.png",
-                        "imgFileSeqNo":"1801311435000038",
-                        "image":"https://objectstore.lgthinq.com/147cdc16-1c52-4e68-a05f-373779e5b813?Expires=1580951494&Signature=jDxZpfriqjpELWSw2fVKGnaIWKcCYlDnNb0zX6rdGNJFWbSoUzjaXzxIOG1ySD2taxYuNl3PH66I0cE7dmapcjT9ZOvfailhkLbsdunPBLOM7bOFB3oN4b4QWmC3-R3VpCp-qGRwxXuQ8NfXklRZJjGZFFObdODhc30pQuQAZyNA84hACN-B~FpCXkpI0JHNrcNPrggelArvIB0WiW-BioyhCfHpetWekwSUtK8B1jSFhkYpQsd1y8B11J6sWoYqLWElyPlJq-RNR9CNWQ72PgbdL2KEeTgRqnpPqbWKFOzFd5vKAslh4ttWHIpTqXc0u2augJqL07YNtU8iL5Hn7w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     }
-                  ]
-               },
-               {  
-                  "typeCode":"SH",
-                  "title":"IoT 허브",
-                  "totalStep":4,
-                  "registStepType":"",
-                  "deviceType":"",
-                  "ssid":"",
-                  "imageFileName":"",
-                  "imgFileSeqNo":"",
-                  "thumbImgFileSeqNo":"",
-                  "image":"",
-                  "displayErrorCode":"N",
-                  "itemDepth2":[  
-                     {  
-                        "typeCode":"SH02",
-                        "title":"LG IoT 허브",
-                        "totalStep":4,
-                        "registStepType":"",
-                        "deviceType":"3001",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_lstqh.png",
-                        "imgFileSeqNo":"1801311435000032",
-                        "image":"https://objectstore.lgthinq.com/bfdc800c-0bfc-4272-85aa-e70a712542c8?Expires=1580951476&Signature=j05VmN5KXGs1q2VISGafyW0UBb-d5tGemG63Sn78D9~0M0PrXMmWip9Lr4vOGTuLeyNHZCgHdRJZY-fCm1PvHgGEQxR8gbKrbc5YbIOh8FDzKXBcf2i-HPNZSbJnm1leffpt9epkcfA85IvadVgOzz2Icn8fq3bC8ZAAEg-Dv6c6nAkdVPquHeCAssTtJnQD2tGL4jqyFp1-D4iABBejO-vqKzBBVXJoSBElxA3thY~FU-ZLd2rl7sF03VBuRQiffiqq~O1g9-BDvKlzblmuEYI1A~RDeB0m7tl1FAW~7YQh1rKOAkAHTiGSQ5O-icjQWSGhNAzPCEn-cpAvxQjMsg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
-                     }
-                  ]
-               },
-               {  
-                  "typeCode":"IOT_SENSOR",
-                  "title":"IoT 기기",
-                  "totalStep":0,
-                  "registStepType":"",
-                  "deviceType":"",
-                  "ssid":"",
-                  "imageFileName":"",
-                  "imgFileSeqNo":"",
-                  "thumbImgFileSeqNo":"",
-                  "image":"",
-                  "displayErrorCode":"N",
-                  "itemDepth2":[  
-                     {  
-                        "typeCode":"SH04",
-                        "title":"센서허브",
-                        "totalStep":4,
-                        "registStepType":"",
-                        "deviceType":"4001",
-                        "ssid":"",
-                        "imageFileName":"ic_list_airstation.png",
-                        "imgFileSeqNo":"1801311435000060",
-                        "image":"https://objectstore.lgthinq.com/2519b75c-d2ee-4ea0-b0ce-aca3cf55a6d2?Expires=1580951538&Signature=ZA0TK~tFz~73lWrqhkx7PwB2LqU4OxtrlIZuBjXqhy5eywHvmL0DVVePoGPYCFY1mH7pJ8FfY7cVfWIi1GuxUyIRUfddlPThauonFMTBuOLiQTWQBnGhZ0xbTBSuc4TSRnzposLLa-Hvo7-ZEmUI6f-xqFASN7-Bl89RBp6OhP8idbiEydp1Wui937QGsPlBmtMApcC-j6K5B04pXd4jzKpVbRXc997n5DiycVUYVW0TT4qCuhTrsKFkDXcdsaa-vjU4V8Vedl~LRnYBL1h1c7G5Sx3sinEiC9B1GC4HW5UZ3fgkLMaq91aEu7uzpnovut~r9CNzaFIs4M-2ESEaxg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
                      }
                   ]
                }
