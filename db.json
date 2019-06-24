@@ -78,9 +78,9 @@
                   ]
                },
                {  
-                  "typeCode":"KI",
-                  "title":"주방가전",
-                  "totalStep":4,
+                  "typeCode":"AI",
+                  "title":"에어컨/에어케어",
+                  "totalStep":3,
                   "registStepType":"",
                   "deviceType":"",
                   "ssid":"",
@@ -91,42 +91,56 @@
                   "displayErrorCode":"N",
                   "itemDepth2":[  
                      {  
-                        "typeCode":"KI01",
-                        "title":"냉장고",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"101",
+                        "typeCode":"AI01",
+                        "title":"에어컨",
+                        "totalStep":3,
+                        "registStepType":"",
+                        "deviceType":"401",
                         "ssid":"",
-                        "imageFileName":"home_appliances_img_fridge.png",
-                        "imgFileSeqNo":"1801311435000025",
-                        "image":"https://objectstore.lgthinq.com/de2f76ea-0b74-4ff9-9846-a9f56d6cf64d?Expires=1580951461&Signature=blmhhBuXncd5j4p~BSzr-f7IHCtcNDipCd4mjp-ttL-eTaZpHek5fueIOzynJqfNk6cnGLvYZLOeXOZ67cjgsX5ShZiNHmDuxF38I36QqcBp7OwzoSOU2qYVKIhnWiKxESdZvQX4VYvUjTrxF0DRFUgBkcIoK8XK~sM5WhhQq5QdDg7t1tDCxJG2CtFUS-s-gXcgF8qH5pnv1WUndA12vlZKRyBJxZjSv7z0KA5gtKiphAXSUOA~N9YfiHeqjHeAy3xt~qnyDEevRBoz46RWuhcBEQbGWSshIzaTAnf8y1P7SK-I~DdBNVDzBFfDXxOj02EpThgWm2X4zB5y4kKlgA__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
+                        "imageFileName":"home_appliances_img_ac.png",
+                        "imgFileSeqNo":"1801311435000018",
+                        "image":"https://objectstore.lgthinq.com/a4f6d35e-d865-4a2d-8b7e-136aa1eeae58?Expires=1580951448&Signature=t3q6SpuZkbvJapX3-vPdSa9sSWVomU378UiTPOHADqGTCiFUEUkDppJzFYEuf-v1XhbCQrfAWtcsrL0kytfdMb-pwk78mQfOtv9G-HZgkGv0QgnYyjdxRIL1Xxbbejdr13dkLDxqtlQSMg4Szz70BnqBHfIDWW38wG99o8TipsI1M2vdtNGVPYMNXjx-fe9Cy0OA-sJlcR3Xskb2-2xdaMduAno7g7zya6eLlt1GYqv2xBWbDKN7OO3wnH3zGpxtm0uxfqoo5D0E47fs9cN96Hal0sQXm~UhbM-8V0gx3S57NfM3wnJC-wYO37gPfQB7OJHD-sP2mn~EjVtJh7vN7A__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N",
                         "itemDepth3":[  
                            {  
-                              "typeCode":"KI0101",
-                              "title":"양문형",
-                              "totalStep":4,
+                              "typeCode":"RAC",
+                              "title":"벽걸이 에어컨",
+                              "totalStep":3,
                               "registStepType":"",
                               "deviceType":"",
-                              "ssid":"",
-                              "imageFileName":"ref_product_registration_img_sidebyside.png",
-                              "imgFileSeqNo":"1801311435000076",
-                              "image":"https://objectstore.lgthinq.com/cdb0bcd0-d776-428d-8e38-ef4f5f7df2ad?Expires=1580951570&Signature=TFaohVyN48O09piC4k8w~GLmwocKe2RITww6QEZ0HMKkW1VVIn3M0yWkg75aeqOtJueznC65JXzMS0~Ut7dfnXa8GUVvBJs3ItHNRCk6apiGNLRWjICyOxAE6EIU7739mQyEQQgZUcNg70SCsmUAE4kC~LQG755uCd-fDud-vhtxuvqfWgAEVZWjRH1vA7QdGkMsnDoQ5SKfwz1D2BESfHzx7h1DmSTNYEMl2-rqNq2dSImLiev~qrMc3Ttux95Ta7lBry2RC4jw-zK3TIJbx~JgSs4ey6I5TD2c12tkakf8TIz2QnvF5vy2dm6jIUjwTpRSPc9LCleqKX~avogPbw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
+                              "ssid":"LGE_AC",
+                              "imageFileName":"ac_home_wall_airconditioner_img.png",
+                              "imgFileSeqNo":"1801311435000003",
+                              "image":"https://objectstore.lgthinq.com/c7e214d7-99f0-4641-b954-f238f9d55b64?Expires=1580951412&Signature=g-H07x78OYLJu0ZGYTdnt8HXi~mckuXQdNUqshn9t4QuWf9YX02jot87rRaCNjmEpejcw37IylWhRliP0IJkXn-YjA~duk~tuKu0ifAUPVAXq8oJ8uk7ZLBwQMWnkalkx1mwpxbpkJrCwnQZJVrmXgsg1iz6qf9BT3vsi5M4r~rMWpb9Mpl~RyWG30x2KHNrmvSjR40oU0R9JK6fQV2CtNiKe~oLOmqq7Ra858upzToneQzZqTfHBy6w7-laPwtuxdHCZQ1bdGsF0Evst93w8pEua4gmdFeNXV4CkzGVRcCtjXWwUGE7XTSBH6UK5GZBpiIuUjRBJ3TBpDftjgYkAg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
+                              "displayErrorCode":"N",
+                              "itemDepth4":[  
+                                 {  
+                                    "typeCode":"REMO_RAC_WIRELESS_BE",
+                                    "title":"",
+                                    "totalStep":3,
+                                    "registStepType":"",
+                                    "deviceType":"",
+                                    "ssid":"",
+                                    "imageFileName":"ac_product_registration_btn_remote control_01.png",
+                                    "imgFileSeqNo":"1801311435000009",
+                                    "image":"https://objectstore.lgthinq.com/0c4baf11-3655-4682-aa0a-f5d3b5c14b6a?Expires=1580951427&Signature=COq7lkT7nrAEceg8otYidoYZogrX0Wzumh7SFBVNyoqWWP-kgm8Av1KuafbyzPwtqXdTNgF83Xl~9R4kn4umDW6VCK8pL6wgifUzsVXa82aU8xuXflAInMDsTZletHKQbsOOzBXRGpGf43rod~Tbs2fFJ6EXq63S4aU-AqQ-pHLX4vIXDeAv86gJsDJC~wrmJvgAcSojkHNhHA4A3hXblcrCHt~bHhem-9MWaeqOxl4tzCKkVYqPEjrLeUI~pJuT2wlxH~eQMk4dbNKB5q9xHg5UiiJRfyR~7vhkHxbzRAAAFAJhP2DBmw4ar5voqsa0OBu41HRkFKc0J3~dTpNU8g__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
+                                    "displayErrorCode":"N"
+                                 }
+                              ]
+                           },
+                           {  
+                              "typeCode":"PAC",
+                              "title":"스탠드 에어컨",
+                              "totalStep":3,
+                              "registStepType":"",
+                              "deviceType":"",
+                              "ssid":"LGEwhisen",
+                              "imageFileName":"ac_home_stand_airconditioner_img.png",
+                              "imgFileSeqNo":"1801311435000002",
+                              "image":"https://objectstore.lgthinq.com/ddbf984f-2be5-45e4-9652-9c904acdaced?Expires=1580951410&Signature=dwX6gg-LxVx7Y0WKlAffRm~wrMMCfdmg83hCOLMfaKanNgCDbTuH~qN2Fv~5TtgQHn79x9xUrdnp~nqhwUGQwgp5VY3eEoAtsSzJJfEzlR6Ai12jT8U5xXBNv37upKU2LygYDV6Dm1EPTmyc8WVM2t92rSvPYZcN1FaQ7FG~pOue4oWSMNT~dL8FleqNdzW8b3lFeVSvS773i45btrGLErncqp2Wo1NxGfByHsYIG1v3~2c0SLcAJH3mGB79XRinTl3RynDprd9AG8fWw88VhQHU56x3J6GSnDENZ7~aHvrkNdm9yd5BSnZJ8ngauvEwItDoHr5Qqk5TqsULa67Jhw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                               "displayErrorCode":"N"
                            }
                         ]
-                     },
-                     {  
-                        "typeCode":"KI10",
-                        "title":"와인셀러",
-                        "totalStep":3,
-                        "registStepType":"1,2,3",
-                        "deviceType":"105",
-                        "ssid":"",
-                        "imageFileName":"home_ic_device_winecellar.png",
-                        "imgFileSeqNo":"1808021355000001",
-                        "image":"https://objectstore.lgthinq.com/7fd93444-c7e0-4275-9849-e065058b710d?Expires=1596257925&Signature=KLiYjpBKUgBquttzWoXU0UOeobaW54rHCMX~E9Wh7fIClYKSXDy3eGT1YHIPmXa4KfiDTjw9lpOhlkqqwgqt6IrdNjrFIFK9lClA5nmY-TEMzB1eTQiI2PDwLKwPJzR5n6LMWfdnWo5xI290cz1xuzQgsmCTlYZoRHVN85tvJ3pN7jY-fQ94lxNcB3RG7Vw1SC6e-IKRmrxxaHBVbzqEUEMlQpEi2zr~2q11EL5hFJtu2Kv5YLKSyfwIBNuZHkWExMUfBNcEVsv7ci-mrCnFMKexi2nhwH6-52RQuyIHBRqlNZBovraHTPeeGtLle-78A9P7FTKpjVd83~0462eRCA__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
                      }
                   ]
                }
