@@ -80,10 +80,10 @@
                         "itemDepth3":[
                            {
                               "typeCode":"PAC",
-                              "title":"스탠드 에어컨",
+                              "title":"NEW 스탠드 에어컨",
                               "totalStep":3,
                               "registStepType":"",
-                              "deviceType":"401",
+                              "deviceType":"",
                               "ssid":"LGEwhisen",
                               "imageFileName":"ac_home_stand_airconditioner_img.png",
                               "imgFileSeqNo":"1801311435000002",
