@@ -1,12 +1,12 @@
 {
    "posts": [
-      {  
+      {
          "id": "modelTypes",
          "resultCode":"0000",
-         "result":{  
+         "result":{
             "totalStep":0,
-            "itemDepth1":[  
-               {  
+            "itemDepth1":[
+               {
                   "typeCode":"LI",
                   "title":"생활가전",
                   "totalStep":3,
@@ -19,7 +19,7 @@
                   "image":"",
                   "displayErrorCode":"N",
                   "itemDepth2":[
-                      {  
+                     {
                         "typeCode":"LA04",
                         "title":"NEW 스타일러",
                         "totalStep":4,
@@ -39,7 +39,7 @@
                         "gmodule": "GSM",
                         "rmodule": "RSM"
                      },
-                     {  
+                     {
                         "typeCode":"LA02",
                         "title":"드럼세탁기",
                         "totalStep":4,
@@ -50,22 +50,10 @@
                         "imgFileSeqNo":"1801311435000050",
                         "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N"
-                     },
-                     {  
-                        "typeCode":"LA03",
-                        "title":"의류건조기",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"202",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
                      }
                   ]
                },
-               {  
+               {
                   "typeCode":"AI",
                   "title":"에어컨/에어케어",
                   "totalStep":3,
@@ -77,8 +65,8 @@
                   "thumbImgFileSeqNo":"",
                   "image":"",
                   "displayErrorCode":"N",
-                  "itemDepth2":[  
-                     {  
+                  "itemDepth2":[
+                     {
                         "typeCode":"AI01",
                         "title":"에어컨",
                         "totalStep":3,
@@ -89,34 +77,8 @@
                         "imgFileSeqNo":"1801311435000018",
                         "image":"https://objectstore.lgthinq.com/a4f6d35e-d865-4a2d-8b7e-136aa1eeae58?Expires=1580951448&Signature=t3q6SpuZkbvJapX3-vPdSa9sSWVomU378UiTPOHADqGTCiFUEUkDppJzFYEuf-v1XhbCQrfAWtcsrL0kytfdMb-pwk78mQfOtv9G-HZgkGv0QgnYyjdxRIL1Xxbbejdr13dkLDxqtlQSMg4Szz70BnqBHfIDWW38wG99o8TipsI1M2vdtNGVPYMNXjx-fe9Cy0OA-sJlcR3Xskb2-2xdaMduAno7g7zya6eLlt1GYqv2xBWbDKN7OO3wnH3zGpxtm0uxfqoo5D0E47fs9cN96Hal0sQXm~UhbM-8V0gx3S57NfM3wnJC-wYO37gPfQB7OJHD-sP2mn~EjVtJh7vN7A__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N",
-                        "itemDepth3":[  
-                           {  
-                              "typeCode":"RAC",
-                              "title":"벽걸이 에어컨",
-                              "totalStep":3,
-                              "registStepType":"",
-                              "deviceType":"",
-                              "ssid":"LGE_AC",
-                              "imageFileName":"ac_home_wall_airconditioner_img.png",
-                              "imgFileSeqNo":"1801311435000003",
-                              "image":"https://objectstore.lgthinq.com/c7e214d7-99f0-4641-b954-f238f9d55b64?Expires=1580951412&Signature=g-H07x78OYLJu0ZGYTdnt8HXi~mckuXQdNUqshn9t4QuWf9YX02jot87rRaCNjmEpejcw37IylWhRliP0IJkXn-YjA~duk~tuKu0ifAUPVAXq8oJ8uk7ZLBwQMWnkalkx1mwpxbpkJrCwnQZJVrmXgsg1iz6qf9BT3vsi5M4r~rMWpb9Mpl~RyWG30x2KHNrmvSjR40oU0R9JK6fQV2CtNiKe~oLOmqq7Ra858upzToneQzZqTfHBy6w7-laPwtuxdHCZQ1bdGsF0Evst93w8pEua4gmdFeNXV4CkzGVRcCtjXWwUGE7XTSBH6UK5GZBpiIuUjRBJ3TBpDftjgYkAg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                              "displayErrorCode":"N",
-                              "itemDepth4":[  
-                                 {  
-                                    "typeCode":"REMO_RAC_WIRELESS_BE",
-                                    "title":"",
-                                    "totalStep":3,
-                                    "registStepType":"",
-                                    "deviceType":"",
-                                    "ssid":"",
-                                    "imageFileName":"ac_product_registration_btn_remote control_01.png",
-                                    "imgFileSeqNo":"1801311435000009",
-                                    "image":"https://objectstore.lgthinq.com/0c4baf11-3655-4682-aa0a-f5d3b5c14b6a?Expires=1580951427&Signature=COq7lkT7nrAEceg8otYidoYZogrX0Wzumh7SFBVNyoqWWP-kgm8Av1KuafbyzPwtqXdTNgF83Xl~9R4kn4umDW6VCK8pL6wgifUzsVXa82aU8xuXflAInMDsTZletHKQbsOOzBXRGpGf43rod~Tbs2fFJ6EXq63S4aU-AqQ-pHLX4vIXDeAv86gJsDJC~wrmJvgAcSojkHNhHA4A3hXblcrCHt~bHhem-9MWaeqOxl4tzCKkVYqPEjrLeUI~pJuT2wlxH~eQMk4dbNKB5q9xHg5UiiJRfyR~7vhkHxbzRAAAFAJhP2DBmw4ar5voqsa0OBu41HRkFKc0J3~dTpNU8g__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                                    "displayErrorCode":"N"
-                                 }
-                              ]
-                           },
-                           {  
+                        "itemDepth3":[
+                           {
                               "typeCode":"PAC",
                               "title":"스탠드 에어컨",
                               "totalStep":3,
@@ -125,8 +87,16 @@
                               "ssid":"LGEwhisen",
                               "imageFileName":"ac_home_stand_airconditioner_img.png",
                               "imgFileSeqNo":"1801311435000002",
-                              "image":"https://objectstore.lgthinq.com/ddbf984f-2be5-45e4-9652-9c904acdaced?Expires=1580951410&Signature=dwX6gg-LxVx7Y0WKlAffRm~wrMMCfdmg83hCOLMfaKanNgCDbTuH~qN2Fv~5TtgQHn79x9xUrdnp~nqhwUGQwgp5VY3eEoAtsSzJJfEzlR6Ai12jT8U5xXBNv37upKU2LygYDV6Dm1EPTmyc8WVM2t92rSvPYZcN1FaQ7FG~pOue4oWSMNT~dL8FleqNdzW8b3lFeVSvS773i45btrGLErncqp2Wo1NxGfByHsYIG1v3~2c0SLcAJH3mGB79XRinTl3RynDprd9AG8fWw88VhQHU56x3J6GSnDENZ7~aHvrkNdm9yd5BSnZJ8ngauvEwItDoHr5Qqk5TqsULa67Jhw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                              "displayErrorCode":"N"
+                              "image":"https://kic-qa-objectstore.lgthinq.com/04952e10-1584-4cd3-92d8-41d0bfae6022?Expires=1580950284&Signature=NK0ivCNoDSThuYuRwP4JG~9vVvqOvUWycHaHxVpkr6aZWMq~6aFrF0L-PQq8fq1o-yqOAGMlJXlZnXeioUv6urQGicQm9AesyC-MsVqtqvcc~7cPElr8LS89XFtJD2N7nbfYbOl5yYc37sPyaKoffSROAGHekZQw92LBnejdYS3aIklwrMoKr9wx~teo~G1xwc8VLf7360RVrSvgmmKBm9d~hXjDssk5vUGv65iaMZqbLzJ6JzDZr05ZSYqVAzpPb07poi9CH59JLb3OQY8E2PZdQa2ZX4TXbIaUioqJE~D9EOcDqx49bOMhjrBCzzI3H~-EG-G-oNorsBsOZlF9fw__&Key-Pair-Id=APKAJTGCC3TGFX6OTUJA",
+                              "displayErrorCode":"N",
+                              "ssid1": "LGEwhisen",
+                              "ssid2": "LGEwhisen2",
+                              "ip": "192.168.1.1",
+                              "port": "9000",
+                              "guide": "AI",
+                              "imageIcon": "https://image.flaticon.com/icons/svg/874/874995.svg",
+                              "gmodule": "GAM",
+                              "rmodule": "RAM"
                            }
                         ]
                      }
@@ -137,7 +107,7 @@
       }
    ],
    "comments": [
-     { "id": 1, "body": "mui-dev comment", "postId": 1 }
+      { "id": 1, "body": "mui-dev comment", "postId": 1 }
    ],
    "profile": { "name": "eummui" }
- }
+}
