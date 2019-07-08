@@ -38,18 +38,6 @@
                         "imageIcon": "https://img.icons8.com/cotton/2x/christmas-star--v1.png",
                         "gmodule": "GSM",
                         "rmodule": "RSM"
-                     },
-                     {
-                        "typeCode":"LA02",
-                        "title":"드럼세탁기",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"201",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_wmdrum.png",
-                        "imgFileSeqNo":"1801311435000050",
-                        "image":"https://objectstore.lgthinq.com/04f965fe-de9b-42cc-884a-40a852782225?Expires=1580951520&Signature=jX5O7ZlvXjbqGRY0R0xM47w1ED7XbVVfVv6K7Qg80~af6e85ZQttZY6D8s6-pfnQj68kdFMK~LngJDVCSY1yHaKr3UvX-kAgjqfy~f07sk9wirYDnVxOH7S2iy9YH-i7IdRXZByFbM45nRkKSQxjFN8JkBQjVkRvCKjqE4qevUaoxa7WlxSwGCg~l0AZYqVA4FEiNMakMwzqDu-aNoeJvibxzVYCch2p6yczhgbse1OMsrbQ3pAgcEsbLQ6JOqqBz63p-GZIfOB1ZRPM4VEAJ-Q9Suy2ob25PtEEiC9Tw6Pey-DSSS-YX61B65Fu0~oEq1dPl1f2Us~FU5gMTZdW9w__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N"
                      }
                   ]
                },
@@ -83,7 +71,7 @@
                               "title":"NEW 스탠드 에어컨",
                               "totalStep":3,
                               "registStepType":"",
-                              "deviceType":"",
+                              "deviceType":"401",
                               "ssid":"LGEwhisen",
                               "imageFileName":"ac_home_stand_airconditioner_img.png",
                               "imgFileSeqNo":"1801311435000002",
@@ -99,6 +87,48 @@
                               "rmodule": "RAM"
                            }
                         ]
+                     }
+                  ]
+               },
+               {  
+                  "typeCode":"IOT_SENSOR",
+                  "title":"IoT 기기",
+                  "totalStep":0,
+                  "registStepType":"",
+                  "deviceType":"",
+                  "ssid":"",
+                  "imageFileName":"",
+                  "imgFileSeqNo":"",
+                  "thumbImgFileSeqNo":"",
+                  "image":"",
+                  "displayErrorCode":"N",
+                  "ssid1":"",
+                  "ssid2":"",
+                  "ip":"",
+                  "port":"",
+                  "guideSuffix":"",
+                  "gmodule":"",
+                  "rmodule":"",
+                  "itemDepth2":[
+                     {  
+                        "typeCode":"SH07",
+                        "title":"스마트조명",
+                        "totalStep":3,
+                        "registStepType":"2",
+                        "deviceType":"4006",
+                        "ssid":"",
+                        "imageFileName":"ic_iot_lighting.png",
+                        "imgFileSeqNo":"",
+                        "image":"",
+                        "displayErrorCode":"N",
+                        "ssid1":"LG_Smart_Light2",
+                        "ssid2":"LG_Smart_Light2",
+                        "ip":"192.168.120.254",
+                        "port":"5500",
+                        "guideSuffix":"IL",
+                        "gmodule":"ILM",
+                        "rmodule":"RLM",
+                        "imageIcon":"https://cdn.icon-icons.com/icons2/1975/PNG/128/tent_122925.png"
                      }
                   ]
                }
