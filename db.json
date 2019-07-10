@@ -65,6 +65,8 @@
                         "imgFileSeqNo":"1801311435000018",
                         "image":"https://objectstore.lgthinq.com/a4f6d35e-d865-4a2d-8b7e-136aa1eeae58?Expires=1580951448&Signature=t3q6SpuZkbvJapX3-vPdSa9sSWVomU378UiTPOHADqGTCiFUEUkDppJzFYEuf-v1XhbCQrfAWtcsrL0kytfdMb-pwk78mQfOtv9G-HZgkGv0QgnYyjdxRIL1Xxbbejdr13dkLDxqtlQSMg4Szz70BnqBHfIDWW38wG99o8TipsI1M2vdtNGVPYMNXjx-fe9Cy0OA-sJlcR3Xskb2-2xdaMduAno7g7zya6eLlt1GYqv2xBWbDKN7OO3wnH3zGpxtm0uxfqoo5D0E47fs9cN96Hal0sQXm~UhbM-8V0gx3S57NfM3wnJC-wYO37gPfQB7OJHD-sP2mn~EjVtJh7vN7A__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
                         "displayErrorCode":"N",
+                        "gmodule": "GAM",
+                        "rmodule": "RAM",
                         "itemDepth3":[
                            {
                               "typeCode":"PAC",
